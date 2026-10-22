@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dfdcea47ce0ea4cb1b226ba6fa9d18, type: 3}
   m_Name: EndRoom2
   m_EditorClassIdentifier: Assembly-CSharp::Room_SO
+  roomType: 2
   doorCount: 1
   sidesWithDoors: 02000000
   roomPrefab: {fileID: 502625394002653989, guid: 975174b079bd7944d87af1c7718d866a, type: 3}

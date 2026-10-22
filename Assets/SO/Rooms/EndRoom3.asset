@@ -10,8 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 88dfdcea47ce0ea4cb1b226ba6fa9d18, type: 3}
-  m_Name: HallRoom2
+  m_Name: EndRoom3
   m_EditorClassIdentifier: Assembly-CSharp::Room_SO
-  doorCount: 2
-  sidesWithDoors: 0000000002000000
-  roomPrefab: {fileID: 4462063341016007851, guid: 4db2515095308054b8932bb39a7f9830, type: 3}
+  roomType: 2
+  doorCount: 1
+  sidesWithDoors: 03000000
+  roomPrefab: {fileID: 1290992926979319925, guid: b8b27c1143189d743a1c3760ac922761, type: 3}

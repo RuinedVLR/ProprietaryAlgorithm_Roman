@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88dfdcea47ce0ea4cb1b226ba6fa9d18, type: 3}
+  m_Name: 2Doors_HallRoom3
+  m_EditorClassIdentifier: Assembly-CSharp::Room_SO
+  roomType: 1
+  doorCount: 2
+  sidesWithDoors: 0000000001000000
+  roomPrefab: {fileID: 929747862114276303, guid: 31bddec4d48ea904d93df0028e6fd2a7, type: 3}
